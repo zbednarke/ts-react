@@ -11,8 +11,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "apollo-client": "^2.6.10",
     "concurrently": "^8.2.0",
     "nodemon": "^2.0.22",
     "typescript": "^5.1.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
   }
 }
