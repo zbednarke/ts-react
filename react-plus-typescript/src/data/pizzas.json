@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Napoletana",
+        "description": "A red lil guy from down south in Napoli",
+        "price": 14.97
+    },
+    {
+        "id": 2,
+        "name": "Margherita",
+        "description": "A slimmed down minimalist pizza",
+        "price": 11.97
+    },
+    {
+        "id": 3,
+        "name": "Caprese",
+        "description": "I think it has basil not sure tho",
+        "price": 18.97
+    }
+]

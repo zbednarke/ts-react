@@ -8,8 +8,12 @@
       "forceConsistentCasingInFileNames": true,        
       "strict": true,                                  
     //   "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
       "strictNullChecks": true,
-      "sourceMap": true                       
+      "sourceMap": true,
+      "moduleResolution": "nodenext",
+      "resolveJsonModule": true,
+      "plugins": [{"name": "typescript-plugin-css-modules"}]                
     },
-  "include": ["./src/**/*"]
+  "include": ["./src/**/*", "src/.react.d.ts", "src/.react-dom.d.ts"]
 }  
